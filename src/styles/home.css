@@ -1,0 +1,11 @@
+.homeBg {
+  background-image: url("../assests/images/image1.jpg");
+  height: 92vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.homeMessageIcon {
+  margin-left: 10px;
+  display: inline-block;
+}
